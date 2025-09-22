@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-WTF
+Flask-Login
+Flask-SocketIO
+eventlet
+gunicorn
+psycopg2-binary
+python-dotenv
+Flask-Limiter         # opcional, para rate limit
+redis                 # si piensas escalar con message queue
